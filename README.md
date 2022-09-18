@@ -1,7 +1,9 @@
-# Prosper_Loan_Analysis UDACITY
+# Prosper_Loan_Analysis UDACITY NANODEGREE
 
 ## Prosper-Loan Exploratory & Explanatory Visualization
-This project is on a data set from Prosper, which is America’s first marketplace lending platform, with over $7 billion in funded loans. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, borrower employment status, borrower credit history, and the latest payment information, etc. The main purpose of this project is to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among multiple variables using summary statistics and data visualizations.
+This project is on a data set from Prosper, which is America’s first marketplace lending platform, with over $7 billion in funded loans. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, borrower employment status, borrower credit history, and the latest payment information, etc. The data can be assess using this [link](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000)
+
+The main purpose of this project is to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among multiple variables using summary statistics and data visualizations.
 
 ### Structure of the dataset?
 There are 113937 rows in the dataset with 81 features . Most variables are numeric in nature(61), but the variable ProsperRating is ordered factor variable with the following levels (best) ——> (worst) AA-A-B-C-D-E-HR
